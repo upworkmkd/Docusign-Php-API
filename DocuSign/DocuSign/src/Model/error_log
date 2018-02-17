@@ -1,0 +1,1 @@
+[17-Dec-2017 01:23:08 UTC] PHP Parse error:  syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING) in /home/wadeju5/public_html/wp-content/plugins/Builder_UX-master/vendor/DocuSign/src/Model/List.php on line 47
